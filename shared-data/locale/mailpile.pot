@@ -4406,7 +4406,7 @@ msgid "Welcome to the nine circles of suffering"
 msgstr ""
 
 #: shared-data/default-theme/html/jsapi/global/silly.js:88
-msgid "Informing David Cameron of suspicious ac^H^H^H ... naaah :)"
+msgid "Informing Theresa May of suspicious ac^H^H^H ... naaah :)"
 msgstr ""
 
 #: shared-data/default-theme/html/jsapi/global/silly.js:89
