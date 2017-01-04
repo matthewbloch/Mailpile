@@ -85,7 +85,7 @@ Mailpile.silly_strings = {
     '{{_("Compiling bullshit bingo grid...")|escapejs}}',
     '{{_("Abandon all hope, ye who enter here")|escapejs}}',
     '{{_("Welcome to the nine circles of suffering")|escapejs}}',
-    '{{_("Informing David Cameron of suspicious ac^H^H^H ... naaah :)")|escapejs}}',
+    '{{_("Informing Theresa May of suspicious ac^H^H^H ... naaah :)")|escapejs}}',
     '{{_("Letting you wait for no apparent reason")|escapejs}}',
     '{{_("What are you wearing?")|escapejs}}',
     '{{_("Go put the kettle on, this could be a while")|escapejs}}',
